@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # README #
 
 This README would normally document whatever steps are necessary to get your application up and running.
@@ -31,3 +32,6 @@ This README would normally document whatever steps are necessary to get your app
 =======
 ##Git-Trials
 >>>>>>> a42a247 (resolve rebase conflict)
+=======
+## Git-Trials
+>>>>>>> 766bc75 (Update README.md)
